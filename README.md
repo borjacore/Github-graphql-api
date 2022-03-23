@@ -77,6 +77,8 @@ Time expent for styling the app (around 15 mins) using styled-components and ant
 
 I used the rest of the time to dockerize the app, and polish it a bit
 
+The token already in the .env file is an example, please replace it by yours
+
 ## What would I add with more time
 - E2E testing to add robustness to the application
 - CommitLint to facilitate the development between a team
