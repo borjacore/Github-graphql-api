@@ -80,3 +80,4 @@ I used the rest of the time to dockerize the app, and polish it a bit
 - CommitLint to facilitate the development between a team
 - Pagination
 - Cool design
+- Use of Git-Flow to manage the tasks and features of the application, as small development task, just done it in once
