@@ -20,6 +20,8 @@ Main Features:
 
 # HOW TO START
   - Execute `npm i`
+  - Generate GitHub access token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+  - Replace the token .env as REACT_APP_TOKEN={token name}
   - Then run the app `npm run start`
   - Enjoy :)
 
